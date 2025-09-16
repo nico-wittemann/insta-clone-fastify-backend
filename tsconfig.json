@@ -19,6 +19,6 @@
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true
     },
-    "include": ["src/**/*", "plugins", "routes", "app.js"],
+    "include": ["src/**/*", "plugins", "routes", "app.js", "jest.config.js"],
     "exclude": ["node_modules", "tests", "build", ".eslint.config.mjs"]
 }
